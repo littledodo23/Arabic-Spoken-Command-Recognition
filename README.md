@@ -13,3 +13,5 @@ Best accuracy: 95.56% (SVM, KNN, GMM)
 3-Train & compare classifiers
 # Dataset
 https://drive.google.com/drive/u/0/folders/1_ynpDqRgfeB2MgxOuq8KbLB9ubGI9tJq
+# Requirements
+librosa, scikit-learn, numpy
